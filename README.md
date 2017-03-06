@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 2. Encrypted Message 1
   * [x]  Required: Decrypt the government message
   * [x]  Required: Encrypt a response and include in this README
-  My response: wn5oV6KQfwP0V0m0KFIOdwr3UiE4p9y8uXEuRpF0wlJlh9SVn9Qror0NIZAl678Q 
+  * [x]  My response: wn5oV6KQfwP0V0m0KFIOdwr3UiE4p9y8uXEuRpF0wlJlh9SVn9Qror0NIZAl678Q 
 
 3. Generate Public-Private Keys
   * [x]  Required: Repair the key generator code
@@ -28,7 +28,8 @@ The following **required** functionality is completed:
   * [x]  Required: Decrypt the message
   * [x]  Required: Verify the message
   * [x]  Required: Include a response message in this README
-    My response: 
+  * [x]  My response: 
+  
 7. Agent Messages
   * [x]  Required: Repair the dropbox code
   * [x]  Required: Repair the messages area
