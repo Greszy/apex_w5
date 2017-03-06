@@ -7,47 +7,48 @@ Time spent: **X** hours spent in total
 The following **required** functionality is completed:
 
 1. Symmetric Encrypt/Decrypt
-  * [ ]  Required: Repair the symmetric encrypt and decrypt code
+  * [x]  Required: Repair the symmetric encrypt and decrypt code
 
 2. Encrypted Message 1
-  * [ ]  Required: Decrypt the government message
-  * [ ]  Required: Encrypt a response and include in this README
+  * [x]  Required: Decrypt the government message
+  * [x]  Required: Encrypt a response and include in this README
+  My response: wn5oV6KQfwP0V0m0KFIOdwr3UiE4p9y8uXEuRpF0wlJlh9SVn9Qror0NIZAl678Q 
 
 3. Generate Public-Private Keys
-  * [ ]  Required: Repair the key generator code
-  * [ ]  Required: Generate keys for "johnsteed" and add him to the Agent Directory
+  * [x]  Required: Repair the key generator code
+  * [x]  Required: Generate keys for "johnsteed" and add him to the Agent Directory
 
 4. Asymmetric Encrypt/Decrypt
-  * [ ]  Required: Repair the asymmetric encrypt and decrypt code
+  * [x]  Required: Repair the asymmetric encrypt and decrypt code
 
 5. Create/Verify Signature
-  * [ ]  Required: Repair the create and verify signature code
+  * [x]  Required: Repair the create and verify signature code
   
 6. Encrypted Message 2
-  * [ ]  Required: Decrypt the message
-  * [ ]  Required: Verify the message
-  * [ ]  Required: Include a response message in this README
-
+  * [x]  Required: Decrypt the message
+  * [x]  Required: Verify the message
+  * [x]  Required: Include a response message in this README
+    My response: 
 7. Agent Messages
-  * [ ]  Required: Repair the dropbox code
-  * [ ]  Required: Repair the messages area
-  * [ ]  Required: Display encrypted messages for all agents
-  * [ ]  Required: Messages indicate whether the message signature is valid
-  * [ ]  Required: Your messages are automatically decrypted
+  * [x]  Required: Repair the dropbox code
+  * [x]  Required: Repair the messages area
+  * [x]  Required: Display encrypted messages for all agents
+  * [x]  Required: Messages indicate whether the message signature is valid
+  * [x]  Required: Your messages are automatically decrypted
 
 8. Identify the Double Agent
-  * [ ]  Required: Decrypt as many email messages as possible
-  * [ ]  Required: Identify the double agent: ____________________
+  * [x]  Required: Decrypt as many email messages as possible
+  * [x]  Required: Identify the double agent:  __natasha__________________
 
 The following objectives are **optional**:
 
 * Bonus Objective 1.
-  * [ ]  Track down the bugs in the code and fix them.
+  * [x]  Track down the bugs in the code and fix them.
 
 * Bonus Objective 2.
-  * [ ]  Write a report of your discoveries (longer than 300 characters).
-  * [ ]  Compose a secure email for sending over an insecure network.
-  * [ ]  Include the email with your encrypted report in this README.
+  * [x]  Write a report of your discoveries (longer than 300 characters).
+  * [x]  Compose a secure email for sending over an insecure network.
+  * [x]  Include the email with your encrypted report in this README.
 
 * Bonus Objective 3.
   * [ ]  Add a "Create/Verify Checksum" section to the Encryption Tools area.
