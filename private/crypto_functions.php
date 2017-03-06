@@ -49,7 +49,7 @@ function generate_keys() {
   // Create a private/public key pair
   $config = array(
       "digest_alg" => "sha512",
-      "private_key_bits" => 10000,
+      "private_key_bits" => 2048,
       "private_key_type" => OPENSSL_KEYTYPE_RSA,
   );
 
@@ -78,7 +78,7 @@ function pkey_encrypt($string, $public_key) {
 
 function pkey_decrypt($string, $private_key) {
   // Unformatted key error
-  //error_reporting(0);
+  error_reporting(0);
 
   $ciphertext = base64_decode($string);
   
@@ -102,7 +102,7 @@ function create_signature($data, $private_key) {
 
 function verify_signature($data, $signature, $public_key) {
   //Unformatted key error
-  //error_reporting(0);
+  error_reporting(0);
 
   // Vigenère
   $raw_signature = base64_decode($signature);
