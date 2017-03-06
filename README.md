@@ -1,6 +1,6 @@
 # Project 5 - Encryption
 
-Time spent: **X** hours spent in total
+Time spent: **10** hours spent in total
 
 ## User Stories
 
@@ -52,9 +52,19 @@ The following objectives are **optional**:
   * [x]  Write a report of your discoveries (longer than 300 characters).
   * [x]  Compose a secure email for sending over an insecure network.
   * [x]  Include the email with your encrypted report in this README.
+  * [x]  Email: 
+  ---Beginning of the report --- kgM1rrTtIVN15pdJIfmGWPOnhKmkshv+blJEGRF9WJ8R7cE66P23znO0CeT2XzSTNHGT3vgmi5lzYwWmtg8t1fIJh/bOh3rYQIYDJU8DR7WQNReS7LEEi0fP1IqkeVzDuEeA9NfAbPMRXBdxN1UVTUfxJJv9Ix96oh13WDWz+y48it1hD4tRMFYe9d1A3FHFgTqBOAEkS/0b1FKwXP8Flsx/6Y3cx3nPtN8gcTW+5EianRfkZ+y+PENn2KexTKYNR7yowp84E7Ze7fazvt6GFkFe94kKFH4mFUIUoVlvgO8EK2mHoR/jqlNh95I7p6NEwQHeogvM9PvIg9rRzIdZEkErAatBSvzIMIKDa5nrYs8twle2Eh5nQNX3Om8LAOcZVOtrnBHYui3UNP6L4vtGEet6LQMJTVMYOrZtAt19b0Nc6GO6pomttEQ7pTaZxNej0SHyYbNPHWj36KarqBwY2q4Q0D1/uPA8LKyhgAlvNLK4UEEjnNudtpX4j5WxcThVeT54WAS7LZd96AO7oaBROQVq4ooTt0k+YvHcDBootzWCCTkdfdPwqkTuw/JolgvtxvCHrCEUbVv0cRwG60cJnw== ---End of the report---
+
+---Beginning of encrypted symmetric key --- s/Xqo2HnWj4MojU1Q8c/urKBtowOtcbAvy97PXPrXT67Dw7+i0QDl2ddKQUxkecnGCA7yH5k3qqMzb6qgxZwpis/eR6Z2Wz3DuBhX59lGkOrCWb1s64tE/LZydcl9MpiKKa9gexdtD7LCSwxAgixh1wrvrCEF12r8Yt22KpMbNh1qwCNI7JwvCq+3NPk+0eKXaoO/VHJonSMMpOpdP6nrKDt6NfzQ2YxZds4RYV3yo2HRMTjFgtlorJzTbnfgr9oDea271DPtg7Z83ExycqJTdGxgym8RylEt6YC1WxGZxdIELgx+6pGXj1qVhJXXLwMZeiTzDi04ACphuV100PSJA== ---End of encrypted symmetric key
+
+---Beginning of signature --- nvSai1lY5IujTHcrb7W1lPSSR81vWnWSJZGO0pHjEk5VkEbL4yeeeNHp4X5On4rCHd/QHb9BKY0czAo6zq8WghERWiMBuS2obv2THsKylO8EfyZwC7LihiwjOGUCL0/B2yTdky1YVSmLBRk9p8OyDv3TacCJxJPqGZZtDZPLI85XjKdc14QFpEXhIZm1S2qLUVmI6msVtFb9f3YCwIyutfH1PNxnLqsy8bnDOjU6BBsuwQP5L2ByRXLboioZbIa9pCaWZl9J6zLAbmCo/3qKlL6j8FAJHfkD6WeDUcKqKpFWnpNJ0NplhIId0dQx6dLZu1NrbPDBY3wyHxLG5LeX0Q== --- End of signature---
+
+
+
+
 
 * Bonus Objective 3.
-  * [ ]  Add a "Create/Verify Checksum" section to the Encryption Tools area.
+  * [x]  Add a "Create/Verify Checksum" section to the Encryption Tools area.
 
 * Advanced Objective 1.
   * [ ]  Add support for other symmetric algorithms.
@@ -63,17 +73,17 @@ The following objectives are **optional**:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Project4Demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Getting used to how encryption works and how you can use it was interesting. 
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Gregory Szymanski]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
